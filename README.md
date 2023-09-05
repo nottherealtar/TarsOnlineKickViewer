@@ -1,10 +1,10 @@
 # TarsOnlineCafe
-Tars Online Cafe is a collection of tools, services, templates, scripts and programs used to better your everyday lives
+Tars Online Cafe is a collection of tools, services, templates, scripts, and programs used to better your everyday lives
 
 
-# Installing the necessary dependancies to make the scrip run
-[] Python 3.9 or higher
-[] Selenium Module
+# Installing the necessary dependencies to make the script run
+[x] Python 3.9 or higher
+  [x] Selenium Module
 
 How-To:
 -  Download or git clone [This Repository](https://github.com/tar420/TarsOnlineKickViewer.git)
@@ -12,4 +12,4 @@ How-To:
     - After the installations are complete, head over to the TarsOnlineKickViewer Folder and open a Terminal or CMD
     - Make sure the Selenium Module is installed by typing in ```py -3 -m pip install -U selenium```
       - After Selenium is installed type in kickview.py
-      - Follow on Screen instructions. Done! 
+      - Follow on-screen instructions. Done! 
